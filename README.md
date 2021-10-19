@@ -1,4 +1,6 @@
-# Ludo-Python-game-
+# SNUDO-Python-game-
+SNUDO game is a combination of snake and ludo game.
+
 Ludo is a strategy board game for two to four[a] players, in which the players race their four tokens from start to finish according to rolls of a single die.
 
 I created this game back in 2016 during my third semester for my Computational Thinking 2 course. I created the game in Python using it's tkinter graphics library.
@@ -7,6 +9,8 @@ Compile the Ludo-game.py file to play.
 
 INSTRUCTIONS
 
+•	You have to play snake game first then if you score even, you will be allowed to enter into ludo.
+•	Rest all are same as Ludo game.
 •	Unless you get a '6' when rolling the dice, your planes can't take off
 •	Press the ROLL button to roll the dice.
 •	If it is a 6, then you can take another turn. So press ROLL again.
