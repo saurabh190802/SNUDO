@@ -17,3 +17,5 @@ INSTRUCTIONS
 •	To win the game, your planes have to traverse around the board and come into the home lane.
 •	If a player gets 3 six’s in a row, than his/her turn is void and next players plays.
 •	
+
+Linked In : https://www.linkedin.com/in/saurabh-satapathy-692a6a1b9/
