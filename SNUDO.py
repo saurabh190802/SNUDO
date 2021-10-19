@@ -1,6 +1,9 @@
 """
 Snake Eater
 Made with PyGame
+
+@saurabh satapathy
+19/10/2021 12:01 PM
 """
 
 import pygame, sys, time, random
