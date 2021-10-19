@@ -63,7 +63,7 @@ score = 0
 def game_over():
     my_font = pygame.font.SysFont('times new roman', 50)
     if int(score)%2==0 and int(score)!=0 :
-        game_over_surface = my_font.render('YOU are LCKY. Start with LUDO', True, green)
+        game_over_surface = my_font.render('YOU are LUCKY. Start with LUDO', True, green)
     else:
         game_over_surface = my_font.render('YOU are unlucky to Play LUDO', True, red)
     game_over_rect = game_over_surface.get_rect()
