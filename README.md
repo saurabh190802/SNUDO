@@ -1,4 +1,6 @@
 # SNUDO-Python-game-
+![SNUDO](https://user-images.githubusercontent.com/75023861/200263257-7648866c-cd66-49d8-96d9-bc968fdb06ac.png)
+
 SNUDO game is a combination of snake and ludo game.
 
 Ludo is a strategy board game for two to four[a] players, in which the players race their four tokens from start to finish according to rolls of a single die.
